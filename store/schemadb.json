@@ -1,0 +1,14 @@
+{
+    "eatan-cal":{
+        "name": "eatan-cal.csv",
+        "columns":["date", "time", "plateName", "occasion", "caloriesSum"]
+    },
+    "ingredients":{
+        "name": "ingredients.csv",
+        "columns":["name", "cal/kg"]
+    },
+    "plate-saved":{
+        "name": "plate-saved.csv",
+        "columns":["ingredients", "cal/kg", "healthyScore"]
+    }
+}
